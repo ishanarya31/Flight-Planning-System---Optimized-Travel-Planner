@@ -1,0 +1,415 @@
+Test Case 1 :
+Route 1: 6, 288
+Route 2: 60
+Route 3: 6, 60
+
+Test Case 2 :
+Route 1: 9, 780
+Route 2: 107
+Route 3: 9, 107
+
+Test Case 3 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 4 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 5 :
+Route 1: 5, 575
+Route 2: 138
+Route 3: 5, 138
+
+Test Case 6 :
+Route 1: 4, 726
+Route 2: 71
+Route 3: 4, 71
+
+Test Case 7 :
+Route 1: 6, 709
+Route 2: 128
+Route 3: 6, 128
+
+Test Case 8 :
+Route 1: 5, 247
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 9 :
+Route 1: 3, 165
+Route 2: 30
+Route 3: 3, 30
+
+Test Case 10 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 11 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 12 :
+Route 1: 1, 376
+Route 2: 57
+Route 3: 1, 98
+
+Test Case 13 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 14 :
+Route 1: 4, 657
+Route 2: 105
+Route 3: 4, 105
+
+Test Case 15 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 16 :
+Route 1: 3, 450
+Route 2: 136
+Route 3: 3, 136
+
+Test Case 17 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 18 :
+Route 1: 3, 848
+Route 2: 49
+Route 3: 3, 49
+
+Test Case 19 :
+Route 1: 5, 698
+Route 2: 106
+Route 3: 5, 106
+
+Test Case 20 :
+Route 1: 1, 201
+Route 2: 36
+Route 3: 1, 36
+
+Test Case 21 :
+Route 1: 4, 329
+Route 2: 70
+Route 3: 0, 0
+
+Test Case 22 :
+Route 1: 3, 768
+Route 2: 48
+Route 3: 3, 96
+
+Test Case 23 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 24 :
+Route 1: 2, 659
+Route 2: 113
+Route 3: 2, 113
+
+Test Case 25 :
+Route 1: 2, 389
+Route 2: 126
+Route 3: 2, 126
+
+Test Case 26 :
+Route 1: 2, 307
+Route 2: 80
+Route 3: 2, 80
+
+Test Case 27 :
+Route 1: 3, 873
+Route 2: 39
+Route 3: 3, 132
+
+Test Case 28 :
+Route 1: 3, 484
+Route 2: 27
+Route 3: 3, 27
+
+Test Case 29 :
+Route 1: 1, 164
+Route 2: 57
+Route 3: 1, 57
+
+Test Case 30 :
+Route 1: 1, 364
+Route 2: 7
+Route 3: 1, 7
+
+Test Case 31 :
+Route 1: 4, 1014
+Route 2: 101
+Route 3: 4, 173
+
+Test Case 32 :
+Route 1: 1, 169
+Route 2: 25
+Route 3: 1, 42
+
+Test Case 33 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 34 :
+Route 1: 1, 174
+Route 2: 51
+Route 3: 1, 84
+
+Test Case 35 :
+Route 1: 1, 590
+Route 2: 37
+Route 3: 1, 37
+
+Test Case 36 :
+Route 1: 1, 226
+Route 2: 38
+Route 3: 1, 38
+
+Test Case 37 :
+Route 1: 2, 928
+Route 2: 76
+Route 3: 2, 76
+
+Test Case 38 :
+Route 1: 2, 653
+Route 2: 40
+Route 3: 2, 99
+
+Test Case 39 :
+Route 1: 2, 366
+Route 2: 75
+Route 3: 2, 87
+
+Test Case 40 :
+Route 1: 2, 548
+Route 2: 90
+Route 3: 2, 90
+
+Test Case 41 :
+Route 1: 1, 202
+Route 2: 14
+Route 3: 1, 14
+
+Test Case 42 :
+Route 1: 1, 768
+Route 2: 21
+Route 3: 1, 21
+
+Test Case 43 :
+Route 1: 2, 739
+Route 2: 45
+Route 3: 2, 45
+
+Test Case 44 :
+Route 1: 2, 351
+Route 2: 55
+Route 3: 2, 102
+
+Test Case 45 :
+Route 1: 3, 762
+Route 2: 170
+Route 3: 3, 170
+
+Test Case 46 :
+Route 1: 1, 980
+Route 2: 76
+Route 3: 1, 82
+
+Test Case 47 :
+Route 1: 1, 540
+Route 2: 81
+Route 3: 1, 81
+
+Test Case 48 :
+Route 1: 1, 171
+Route 2: 22
+Route 3: 1, 22
+
+Test Case 49 :
+Route 1: 2, 516
+Route 2: 39
+Route 3: 2, 39
+
+Test Case 50 :
+Route 1: 1, 747
+Route 2: 40
+Route 3: 1, 73
+
+Test Case 51 :
+Route 1: 1, 542
+Route 2: 14
+Route 3: 1, 14
+
+Test Case 52 :
+Route 1: 1, 307
+Route 2: 33
+Route 3: 1, 33
+
+Test Case 53 :
+Route 1: 1, 36
+Route 2: 19
+Route 3: 1, 19
+
+Test Case 54 :
+Route 1: 2, 579
+Route 2: 23
+Route 3: 2, 23
+
+Test Case 55 :
+Route 1: 1, 697
+Route 2: 28
+Route 3: 1, 77
+
+Test Case 56 :
+Route 1: 2, 238
+Route 2: 39
+Route 3: 2, 49
+
+Test Case 57 :
+Route 1: 1, 83
+Route 2: 10
+Route 3: 1, 10
+
+Test Case 58 :
+Route 1: 2, 425
+Route 2: 34
+Route 3: 2, 34
+
+Test Case 59 :
+Route 1: 2, 442
+Route 2: 24
+Route 3: 2, 24
+
+Test Case 60 :
+Route 1: 2, 810
+Route 2: 30
+Route 3: 2, 120
+
+Test Case 61 :
+Route 1: 2, 740
+Route 2: 64
+Route 3: 2, 81
+
+Test Case 62 :
+Route 1: 1, 611
+Route 2: 33
+Route 3: 1, 83
+
+Test Case 63 :
+Route 1: 1, 530
+Route 2: 12
+Route 3: 1, 12
+
+Test Case 64 :
+Route 1: 1, 279
+Route 2: 27
+Route 3: 1, 27
+
+Test Case 65 :
+Route 1: 1, 558
+Route 2: 26
+Route 3: 1, 50
+
+Test Case 66 :
+Route 1: 2, 758
+Route 2: 40
+Route 3: 2, 50
+
+Test Case 67 :
+Route 1: 2, 443
+Route 2: 33
+Route 3: 2, 42
+
+Test Case 68 :
+Route 1: 2, 293
+Route 2: 58
+Route 3: 2, 76
+
+Test Case 69 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 70 :
+Route 1: 2, 599
+Route 2: 54
+Route 3: 2, 68
+
+Test Case 71 :
+Route 1: 2, 168
+Route 2: 35
+Route 3: 2, 35
+
+Test Case 72 :
+Route 1: 1, 462
+Route 2: 23
+Route 3: 1, 87
+
+Test Case 73 :
+Route 1: 1, 498
+Route 2: 16
+Route 3: 1, 16
+
+Test Case 74 :
+Route 1: 0, No route
+Route 2: 0
+Route 3: 0, 0
+
+Test Case 75 :
+Route 1: 1, 480
+Route 2: 15
+Route 3: 1, 87
+
+Test Case 76 :
+Route 1: 2, 780
+Route 2: 15
+Route 3: 2, 15
+
+Test Case 77 :
+Route 1: 1, 205
+Route 2: 29
+Route 3: 1, 73
+
+Test Case 78 :
+Route 1: 1, 943
+Route 2: 44
+Route 3: 1, 44
+
+Test Case 79 :
+Route 1: 1, 304
+Route 2: 27
+Route 3: 1, 27
+
+Test Case 80 :
+Route 1: 2, 247
+Route 2: 29
+Route 3: 2, 29
+
+Test Case 81 :
+Route 1: 2, 197
+Route 2: 39
+Route 3: 2, 68
+
+Test Case 82 :
+Route 1: 1, 159
+Route 2: 16
+Route 3: 1, 16
+
+Test Case 83 :
+Route 1: 1, 998
+Route 2: 12
+Route 3: 1, 39
+

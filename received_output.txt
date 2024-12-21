@@ -1,0 +1,141 @@
+
+Testing routes for start_city=3472, destination=8812
+Task 1: Least Flights Earliest Route - Number of flights: 7, Arrival time: 7497
+Task 2: Cheapest Route - Total cost: 20111542
+Task 3: Least Flights Cheapest Route - Number of flights: 7, Total cost: 30747013
+Time taken for start_city=3472, destination=8812: 1.19 seconds
+
+
+Testing routes for start_city=3898, destination=5857
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=3898, destination=5857: 0.13 seconds
+
+
+Testing routes for start_city=9188, destination=1890
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=9188, destination=1890: 0.95 seconds
+
+
+Testing routes for start_city=9172, destination=4200
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=9172, destination=4200: 0.00 seconds
+
+
+Testing routes for start_city=2490, destination=2577
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=2490, destination=2577: 1.25 seconds
+
+
+Testing routes for start_city=8742, destination=3844
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=8742, destination=3844: 0.95 seconds
+
+
+Testing routes for start_city=3091, destination=4143
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=3091, destination=4143: 1.09 seconds
+
+
+Testing routes for start_city=8932, destination=4592
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=8932, destination=4592: 0.00 seconds
+
+
+Testing routes for start_city=1973, destination=1739
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=1973, destination=1739: 1.22 seconds
+
+
+Testing routes for start_city=3019, destination=667
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=3019, destination=667: 1.17 seconds
+
+
+Testing routes for start_city=8594, destination=1874
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=8594, destination=1874: 0.00 seconds
+
+
+Testing routes for start_city=9842, destination=560
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=9842, destination=560: 0.98 seconds
+
+
+Testing routes for start_city=2512, destination=3816
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=2512, destination=3816: 1.18 seconds
+
+
+Testing routes for start_city=1745, destination=9447
+Task 1: Least Flights Earliest Route - Number of flights: 3, Arrival time: 6625
+Task 2: Cheapest Route - Total cost: 12790605
+Task 3: Least Flights Cheapest Route - Number of flights: 3, Total cost: 15260587
+Time taken for start_city=1745, destination=9447: 1.35 seconds
+
+
+Testing routes for start_city=949, destination=6732
+Task 1: Least Flights Earliest Route - Number of flights: 6, Arrival time: 4579
+Task 2: Cheapest Route - Total cost: 33267407
+Task 3: Least Flights Cheapest Route - Number of flights: 6, Total cost: 33267407
+Time taken for start_city=949, destination=6732: 1.25 seconds
+
+
+Testing routes for start_city=7124, destination=618
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=7124, destination=618: 0.01 seconds
+
+
+Testing routes for start_city=2868, destination=1502
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=2868, destination=1502: 1.23 seconds
+
+
+Testing routes for start_city=9985, destination=1041
+Task 1: No route found.
+Task 2: No route found.
+Task 3: No route found.
+Time taken for start_city=9985, destination=1041: 0.92 seconds
+
+
+Testing routes for start_city=3950, destination=8661
+Task 1: Least Flights Earliest Route - Number of flights: 5, Arrival time: 6517
+Task 2: Cheapest Route - Total cost: 27647546
+Task 3: Least Flights Cheapest Route - Number of flights: 5, Total cost: 27647546
+Time taken for start_city=3950, destination=8661: 0.13 seconds
+
+
+Testing routes for start_city=401, destination=9030
+Task 1: Least Flights Earliest Route - Number of flights: 4, Arrival time: 3742
+Task 2: Cheapest Route - Total cost: 14943938
+Task 3: Least Flights Cheapest Route - Number of flights: 4, Total cost: 17296590
+Time taken for start_city=401, destination=9030: 1.63 seconds
+
+Total time taken for all tests: 16.75 seconds
